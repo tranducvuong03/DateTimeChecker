@@ -1,0 +1,12 @@
+D:\FPTU\Semester5\SWT301\DateCheckerSeleniumDemo\DateCheckerSeleniumDemo\obj\Release\net8.0\PubTmp\Out\DateCheckerSeleniumDemo.exe
+D:\FPTU\Semester5\SWT301\DateCheckerSeleniumDemo\DateCheckerSeleniumDemo\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\FPTU\Semester5\SWT301\DateCheckerSeleniumDemo\DateCheckerSeleniumDemo\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\FPTU\Semester5\SWT301\DateCheckerSeleniumDemo\DateCheckerSeleniumDemo\obj\Release\net8.0\PubTmp\Out\selenium-manager\linux\selenium-manager
+D:\FPTU\Semester5\SWT301\DateCheckerSeleniumDemo\DateCheckerSeleniumDemo\obj\Release\net8.0\PubTmp\Out\selenium-manager\macos\selenium-manager
+D:\FPTU\Semester5\SWT301\DateCheckerSeleniumDemo\DateCheckerSeleniumDemo\obj\Release\net8.0\PubTmp\Out\selenium-manager\windows\selenium-manager.exe
+D:\FPTU\Semester5\SWT301\DateCheckerSeleniumDemo\DateCheckerSeleniumDemo\obj\Release\net8.0\PubTmp\Out\DateCheckerSeleniumDemo.dll
+D:\FPTU\Semester5\SWT301\DateCheckerSeleniumDemo\DateCheckerSeleniumDemo\obj\Release\net8.0\PubTmp\Out\DateCheckerSeleniumDemo.deps.json
+D:\FPTU\Semester5\SWT301\DateCheckerSeleniumDemo\DateCheckerSeleniumDemo\obj\Release\net8.0\PubTmp\Out\DateCheckerSeleniumDemo.runtimeconfig.json
+D:\FPTU\Semester5\SWT301\DateCheckerSeleniumDemo\DateCheckerSeleniumDemo\obj\Release\net8.0\PubTmp\Out\DateCheckerSeleniumDemo.pdb
+D:\FPTU\Semester5\SWT301\DateCheckerSeleniumDemo\DateCheckerSeleniumDemo\obj\Release\net8.0\PubTmp\Out\Newtonsoft.Json.dll
+D:\FPTU\Semester5\SWT301\DateCheckerSeleniumDemo\DateCheckerSeleniumDemo\obj\Release\net8.0\PubTmp\Out\WebDriver.dll

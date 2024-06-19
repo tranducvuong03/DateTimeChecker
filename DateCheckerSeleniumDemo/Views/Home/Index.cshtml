@@ -1,0 +1,34 @@
+﻿@model DateCheckerSeleniumDemo.Models.DateModel
+@{
+    ViewBag.Title = "Check Date";
+}
+
+<h2>Check Date</h2>
+
+@using (Html.BeginForm("CheckDate", "Home", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-group">
+        @Html.LabelFor(model => model.Year)
+        @Html.TextBoxFor(model => model.Year, new { @class = "form-control" })
+    </div>
+    
+    <div class="form-group">
+        @Html.LabelFor(model => model.Month)
+        @Html.TextBoxFor(model => model.Month, new { @class = "form-control" })
+    </div>
+    
+    <div class="form-group">
+        @Html.LabelFor(model => model.Day)
+        @Html.TextBoxFor(model => model.Day, new { @class = "form-control" })
+    </div>
+    
+    <button type="submit" class="btn btn-primary">Check</button>
+}
+
+@section Scripts {
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/jquery.validate.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/additional-methods.min.js"></script>
+}

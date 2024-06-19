@@ -1,0 +1,18 @@
+﻿@{
+    ViewBag.Title = "Result";
+}
+
+<h2>Result</h2>
+
+@if (ViewBag.IsValid != null)
+{
+    if ((bool)ViewBag.IsValid)
+    {
+        <p id="msg">The date is valid.</p>
+    }
+    else
+    {
+        <p id="msg">The date is not valid.</p>
+    }
+}
+@Html.ActionLink("Back to Check Date", "Index", "Home", null, new { @class = "btn btn-primary" })
