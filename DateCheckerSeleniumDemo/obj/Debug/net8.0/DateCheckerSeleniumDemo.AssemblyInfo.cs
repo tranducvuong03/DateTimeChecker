@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DateCheckerSeleniumDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dcc0ee8469d3248e09e988737027062f0cb3a17c")]
 [assembly: System.Reflection.AssemblyProductAttribute("DateCheckerSeleniumDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DateCheckerSeleniumDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -101,3 +101,4 @@ D:\FPTU\Semester5\SWT301\DateCheckerSeleniumDemo\SeleniumTest\obj\Debug\net8.0\r
 D:\FPTU\Semester5\SWT301\DateCheckerSeleniumDemo\SeleniumTest\obj\Debug\net8.0\SeleniumTest.pdb
 D:\FPTU\Semester5\SWT301\DateCheckerSeleniumDemo\SeleniumTest\obj\Debug\net8.0\SeleniumTest.genruntimeconfig.cache
 D:\FPTU\Semester5\SWT301\DateCheckerSeleniumDemo\SeleniumTest\obj\Debug\net8.0\ref\SeleniumTest.dll
+D:\FPTU\Semester5\SWT301\DateCheckerSeleniumDemo\SeleniumTest\obj\Debug\net8.0\SeleniumTest.sourcelink.json

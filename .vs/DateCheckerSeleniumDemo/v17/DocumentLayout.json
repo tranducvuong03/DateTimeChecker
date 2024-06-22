@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\FPTU\\Semester5\\SWT301\\DateCheckerSeleniumDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD02787A-61C3-4793-B773-F263FDC9FF18}|SeleniumTest\\SeleniumTest.csproj|D:\\FPTU\\Semester5\\SWT301\\DateCheckerSeleniumDemo\\seleniumtest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CD02787A-61C3-4793-B773-F263FDC9FF18}|SeleniumTest\\SeleniumTest.csproj|d:\\fptu\\semester5\\swt301\\datecheckerseleniumdemo\\seleniumtest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD02787A-61C3-4793-B773-F263FDC9FF18}|SeleniumTest\\SeleniumTest.csproj|solutionrelative:seleniumtest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C840D7-9A0C-4405-8532-B7067DDD9D8C}|DateCheckerSeleniumDemo\\DateCheckerSeleniumDemo.csproj|D:\\FPTU\\Semester5\\SWT301\\DateCheckerSeleniumDemo\\datecheckerseleniumdemo\\models\\datemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C840D7-9A0C-4405-8532-B7067DDD9D8C}|DateCheckerSeleniumDemo\\DateCheckerSeleniumDemo.csproj|solutionrelative:datecheckerseleniumdemo\\models\\datemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C840D7-9A0C-4405-8532-B7067DDD9D8C}|DateCheckerSeleniumDemo\\DateCheckerSeleniumDemo.csproj|D:\\FPTU\\Semester5\\SWT301\\DateCheckerSeleniumDemo\\datecheckerseleniumdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52C840D7-9A0C-4405-8532-B7067DDD9D8C}|DateCheckerSeleniumDemo\\DateCheckerSeleniumDemo.csproj|solutionrelative:datecheckerseleniumdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,13 +50,37 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FPTU\\Semester5\\SWT301\\DateCheckerSeleniumDemo\\DateCheckerSeleniumDemo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DateCheckerSeleniumDemo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\FPTU\\Semester5\\SWT301\\DateCheckerSeleniumDemo\\DateCheckerSeleniumDemo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DateCheckerSeleniumDemo\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T00:39:59.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DateModel.cs",
+              "DocumentMoniker": "D:\\FPTU\\Semester5\\SWT301\\DateCheckerSeleniumDemo\\DateCheckerSeleniumDemo\\Models\\DateModel.cs",
+              "RelativeDocumentMoniker": "DateCheckerSeleniumDemo\\Models\\DateModel.cs",
+              "ToolTip": "D:\\FPTU\\Semester5\\SWT301\\DateCheckerSeleniumDemo\\DateCheckerSeleniumDemo\\Models\\DateModel.cs",
+              "RelativeToolTip": "DateCheckerSeleniumDemo\\Models\\DateModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T00:39:46.621Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "D:\\FPTU\\Semester5\\SWT301\\DateCheckerSeleniumDemo\\SeleniumTest\\UnitTest1.cs",
               "RelativeDocumentMoniker": "SeleniumTest\\UnitTest1.cs",
               "ToolTip": "D:\\FPTU\\Semester5\\SWT301\\DateCheckerSeleniumDemo\\SeleniumTest\\UnitTest1.cs",
               "RelativeToolTip": "SeleniumTest\\UnitTest1.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAowDEAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-14T13:08:55.932Z",
               "EditorCaption": ""
